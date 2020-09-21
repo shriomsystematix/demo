@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "705853909394",
+    "firebase_url": "https://mycard-db2ea.firebaseio.com",
+    "project_id": "mycard-db2ea",
+    "storage_bucket": "mycard-db2ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705853909394:android:5c89ac9b60f6e0ea1b394b",
+        "android_client_info": {
+          "package_name": "uk.co.juxapp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705853909394-qjnefbkjp5p31vditb6g67j4mr5l836m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.juxapp.dev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "705853909394-mlpm61inai34ik4i7c84h7tk2b3vn56s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.juxapp.dev",
+            "certificate_hash": "c408c971f18953f58c2f06e8160b74dabb1c4869"
+          }
+        },
+        {
+          "client_id": "705853909394-606ta31ao5up7ivjcjlaprh9pfuibpqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCux25j9CKM2kto86rLfip2uc0VWxhGe9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705853909394-606ta31ao5up7ivjcjlaprh9pfuibpqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705853909394-4vcljibqd5rnkk2uqal2839g2ekau4bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uk.co.juxapp.testapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705853909394:android:a7565c32d7b883771b394b",
+        "android_client_info": {
+          "package_name": "uk.co.juxapp.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705853909394-np250c8rsnol2f9qus8569rqfqo7ar1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.juxapp.testapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "705853909394-bl4fdmsv3obv11sugcpuhuvba7642276.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.juxapp.testapp",
+            "certificate_hash": "6f7fa6155b2e420eb0fd04df798952e466a3e8db"
+          }
+        },
+        {
+          "client_id": "705853909394-606ta31ao5up7ivjcjlaprh9pfuibpqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCux25j9CKM2kto86rLfip2uc0VWxhGe9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705853909394-606ta31ao5up7ivjcjlaprh9pfuibpqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705853909394-4vcljibqd5rnkk2uqal2839g2ekau4bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uk.co.juxapp.testapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
